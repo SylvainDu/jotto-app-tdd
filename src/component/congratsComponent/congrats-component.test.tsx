@@ -1,6 +1,6 @@
 import { shallow, ShallowWrapper } from 'enzyme';
 import CongratsComponent from './congrats-component';
-import { findByTestAttr } from '../../test/testUtils';
+import { findByTestAttr } from '../../../test/testUtils';
 
 let wrapper: ShallowWrapper;
 let congratsComponent: ShallowWrapper;
