@@ -1,6 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+/random-word-server/node_modules
+/udemy-react-testing-projects
 /node_modules
 /.pnp
 .pnp.js
